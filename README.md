@@ -1,2 +1,2 @@
 # Belajar-HTML
-Belajar html merpakan langkah untuk membuat sebuah website 
+Belajar html merupakan langkah untuk membuat sebuah website. 
