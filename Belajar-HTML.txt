@@ -1,0 +1,8 @@
+Hal-hal yang harus diperhatikan untuk belajar html
+
+- Download sebuah teks editor
+  * kita pakai virtual studio code
+- Download extension di virtual stuio code
+  * Live server
+  * Prettier
+- belajar lewat youtube kelas terbuka
